@@ -294,5 +294,3 @@ if __name__ == "__main__":
 ## 7. Créditos
 
 Dashboard idealizado, priorizado e validado por **André Reis**, com o Claude atuando como parceiro de implementação técnica ao longo de várias rodadas de refinamento por prompt.
-
-*Porsche Analytics Sales • Desenvolvido por André Reis Tech • 2026*
